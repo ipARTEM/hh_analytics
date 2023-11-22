@@ -1,0 +1,35 @@
+[
+   {
+      "keywords": "python",
+      "count": 80,
+      "down": 2108392.25,
+      "up": 19361840.14,
+      "requirements": [
+         {
+            "name": "python",
+            "count": 53,
+            "percent": 66.25
+         },
+         {
+            "name": "sql",
+            "count": 29,
+            "percent": 36.25
+         },
+         {
+            "name": "git",
+            "count": 20,
+            "percent": 25.0
+         },
+         {
+            "name": "api",
+            "count": 18,
+            "percent": 22.5
+         },
+         {
+            "name": "docker",
+            "count": 15,
+            "percent": 18.75
+         }
+      ]
+   }
+]
